@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: Fashionhaydee/fashionhaydee-cms-panel
   branch: main
+
 
 media_folder: "images"
 public_folder: "/images"
