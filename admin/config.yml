@@ -2,6 +2,9 @@ backend:
   name: github
   repo: Fashionhaydee/fashionhaydee-cms-panel
   branch: main
+  base_url: https://api.netlify.com
+  auth_endpoint: oauth2/callback
+  client_id: Ov23liNOYj9E5TpjEw1d
 
 
 media_folder: "images"
